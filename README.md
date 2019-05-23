@@ -81,5 +81,7 @@ with open(file_name, 'w') as f:
   json.dump(postings_dict, f)
 ```
 
-Reference: https://towardsdatascience.com/scraping-job-posting-data-from-indeed-using-selenium-and-beautifulsoup-dfc86230baac
+
+
+
 
